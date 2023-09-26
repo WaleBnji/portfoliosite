@@ -56,7 +56,7 @@
     {
       "id": "5",
       "src": "./img/movie.png",
-      "title": "A Movieg app",
+      "title": "A Movie app",
       "description": "This is a movie app",
       "link": "Visit",
       "destination": "https://hngstage2-swart.vercel.app/"

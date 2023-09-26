@@ -49,7 +49,7 @@ function Footer() {
                 About Me
               </Link>
             </li> */}
-            {/* <li>
+            <li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
@@ -61,7 +61,7 @@ function Footer() {
               >
                 Contact
               </Link>
-            </li> */}
+            </li>
             {/* <li>
               <Link
                 activeClass="navbar--active-content"

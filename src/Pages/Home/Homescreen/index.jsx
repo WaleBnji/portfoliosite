@@ -14,7 +14,7 @@ export default function Home() {
       {/* <AboutMe /> */}
       <MyPortfolio />
       
-      {/* <ContactMe /> */}
+      <ContactMe />
       <Footer />
     </>
   );
