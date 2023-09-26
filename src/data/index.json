@@ -1,3 +1,5 @@
+
+
 {
   "skills": [
     {
@@ -28,15 +30,16 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "./img/desktop-preview.jpg",
       "title": "E-commerce",
       "description": "This is a shoe store app",
       "link": "Visit",
       "destination": "https://e-commerce-g2gb.vercel.app/"
+    
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/DesktopHome.jpg",
       "title": "Space Tourism",
       "description": "This is a landing page project",
       "link": "Visit",
@@ -44,7 +47,7 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/blog.jpg",
       "title": "A blog app",
       "description": "This is a blog app",
       "link": "Visit",

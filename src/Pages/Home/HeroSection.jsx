@@ -1,4 +1,8 @@
 import image1 from '../../assets/photo_2023-09-26_17-30-50.jpg';
+import image2 from '../../assets/DesktopHome.jpg'
+import image3 from '../../assets/desktop-preview.jpg'
+import image4 from '../../assets/blog.jpg'
+
 
 export default function HeroSection() {
   return (
