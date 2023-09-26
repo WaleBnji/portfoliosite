@@ -46,12 +46,20 @@
       "destination": "https://space-tourism-91xu.vercel.app/"
     },
     {
-      "id": "3",
-      "src": "./img/blog2.png",
-      "title": "A blog app",
-      "description": "This is a blog app",
+      "id": "4",
+      "src": "./img/galleryapp.png",
+      "title": "A gallery app",
+      "description": "This is drag and drop gallery app",
       "link": "Visit",
-      "destination": "https://blogapp-theta.vercel.app/"
+      "destination": "https://galleryapp-chi.vercel.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/movie.png",
+      "title": "A Movieg app",
+      "description": "This is a movie app",
+      "link": "Visit",
+      "destination": "https://hngstage2-swart.vercel.app/"
     }
   ],
   "testimonial": [
